@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Mohd Injmam 👋
 
-<!--
-**Mohd-Inzamam/Mohd-Inzamam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack MERN Developer from Indore, India.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Java
+- MySQL
+
+## Featured Projects
+
+### TourBooker
+Full-stack tours and activity booking platform featuring:
+- RBAC
+- Stripe Payments
+- AI Travel Recommendations
+- Dynamic Pricing
+- Geospatial Search
+
+### CivicPulse
+Community issue reporting platform featuring:
+- JWT Authentication
+- Admin Dashboard
+- Issue Tracking
+- Role-Based Access Control
+
+## Currently Learning
+
+- Linux
+- System Design
+- AWS
+- DevOps
+
+## Connect With Me
+
+📧 injmams2789@gmail.com
+
+💼 LinkedIn: linkedin.com/in/inzamam-sheikh
+
+🐙 GitHub: github.com/Mohd-Inzamam
