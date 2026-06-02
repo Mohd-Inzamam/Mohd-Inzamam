@@ -22,6 +22,12 @@ Full-stack tours and activity booking platform featuring:
 - Dynamic Pricing
 - Geospatial Search
 
+### ATS Resume Analyzer
+
+Full-stack ATS and career management platform that enables resume parsing, ATS compatibility analysis, resume-to-job-description matching, application tracking, analytics dashboards, and secure authentication workflows.
+
+Tech: React.js, Node.js, Express.js, MongoDB, JWT, Multer
+
 ### CivicPulse
 Community issue reporting platform featuring:
 - JWT Authentication
