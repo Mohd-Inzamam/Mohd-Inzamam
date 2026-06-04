@@ -19,6 +19,7 @@ Full-stack tours and activity booking platform featuring:
 - RBAC
 - Stripe Payments
 - AI Travel Recommendations
+- AI Chatbot for customer
 - Dynamic Pricing
 - Geospatial Search
 
